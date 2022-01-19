@@ -1,4 +1,4 @@
-.body{
+.main{
   background-color: #303436;
 }
 .mainimage{
@@ -19,8 +19,16 @@
 }
 .division{
   padding: 7px 271px 89px 271px;
+  height: 44px;
 }
 .topnavbar{
   padding: 5px 5px 6px 5px;
   height: 60px;
+}
+.Border{
+  border: 1px solid rgb(177, 172, 166);
+  border-radius: 24px
+}
+.Row-1{
+  height: 44px;
 }
