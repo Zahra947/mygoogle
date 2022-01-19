@@ -12,7 +12,6 @@
 }
 .form{
   padding: 5px 8px 0 14px;
-  height: 39px;
 }
 .search{
   padding: 20px 20px 20px 20px;
@@ -31,4 +30,12 @@
 }
 .Row-1{
   height: 44px;
+}
+.search-icon{
+  color: #DCDAD7;
+  margin: ;
+}
+.item-1{
+  height: 27px;
+  padding: 0 13px 0 0;
 }
