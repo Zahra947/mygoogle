@@ -1,104 +1,104 @@
-.main{
+.main {
   background-color: #303436;
   width: 1164px;
+  margin: 0 auto;
 }
-.mainimage{
+.mainimage {
   display: block;
-  margin:0 auto;
+  margin: 0 auto;
 }
-.itemstop{
+.itemstop {
   font-size: 13px;
-  color:#DCDAD7;
-  font-family:Times New Roman;
+  color: #dcdad7;
+  font-family: Times New Roman;
 }
-.form{
+.form {
   padding: 5px 8px 0 14px;
 }
-.search{
+.search {
   padding: 20px 20px 20px 20px;
   height: 160px;
 }
-.division{
+.division {
   margin: 7px 270px 0px 270px;
   height: 44px;
 }
-.topnavbar{
+.topnavbar {
   padding: 5px 5px 6px 5px;
   height: 60px;
 }
-.Border{
+.Border {
   border: 1px solid rgb(177, 172, 166);
-  border-radius: 24px
+  border-radius: 24px;
 }
-.Row-1{
+.Row-1 {
   height: 44px;
 }
-.search-icon{
-  color: #DCDAD7;
+.search-icon {
+  color: #dcdad7;
   margin: ;
 }
-.item-1{
+.item-1 {
   height: 27px;
   padding: 0 13px 0 0;
 }
-.textbar{
+.textbar {
   width: 487px;
   height: 34px;
 }
-.buttons{
+.buttons {
   margin: 7px 270px 0px 270px;
   padding: 18px 0 12px 0;
   width: 584px;
   height: 70px;
 }
-.buttons-0{
+.buttons-0 {
   margin: 0 0 12px 0;
 }
-.buttons-1{
+.buttons-1 {
   margin: 11px 4px 11px 4px;
   border: 1px;
   border-radius: 4px;
-  padding:0 16px 0 16px;
+  padding: 0 16px 0 16px;
   width: 117px;
   height: 36px;
-  background-color: #3B4043;
+  background-color: #3b4043;
   font-size: 14px;
-  font-family:Times New Roman;
-  color: #CECBC7;
+  font-family: Times New Roman;
+  color: #cecbc7;
 }
-.buttons-2{
+.buttons-2 {
   margin: 11px 4px 11px 4px;
   border: 1px;
   border-radius: 4px;
-  padding:0 16px 0 16px;
+  padding: 0 16px 0 16px;
   width: 137px;
   height: 36px;
-  background-color: #3B4043;
+  background-color: #3b4043;
   font-size: 14px;
-  font-family:Times New Roman;
-  color: #DCDAD7;
+  font-family: Times New Roman;
+  color: #dcdad7;
 }
-.lang-0{
+.lang-0 {
   background-color: #303436;
   height: 158px;
 }
-.lang-1{
+.lang-1 {
   font-size: 13px;
-  font-family:Times New Roman;
+  font-family: Times New Roman;
   color: #b1aca6;
   margin: 0 0 24px 0;
 }
-.bottombar-0{
+.bottombar-0 {
   padding: 0 20px 0 20px;
   color: #979289;
-  font-family:Times New Roman;
+  font-family: Times New Roman;
   font-size: 14px;
-  background-color: #282C2D;
+  background-color: #282c2d;
   height: 46px;
 }
-.b-links-0{
+.b-links-0 {
   padding: 15px;
 }
-.b-links-1{
-  
+.b-links-1 {
 }
