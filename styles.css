@@ -1,5 +1,6 @@
 .main{
   background-color: #303436;
+  width: 1164px;
 }
 .mainimage{
   display: block;
@@ -15,6 +16,7 @@
 }
 .search{
   padding: 20px 20px 20px 20px;
+  height: 160px;
 }
 .division{
   margin: 7px 270px 0px 270px;
@@ -75,4 +77,28 @@
   font-size: 14px;
   font-family:Times New Roman;
   color: #DCDAD7;
+}
+.lang-0{
+  background-color: #303436;
+  height: 158px;
+}
+.lang-1{
+  font-size: 13px;
+  font-family:Times New Roman;
+  color: #b1aca6;
+  margin: 0 0 24px 0;
+}
+.bottombar-0{
+  padding: 0 20px 0 20px;
+  color: #979289;
+  font-family:Times New Roman;
+  font-size: 14px;
+  background-color: #282C2D;
+  height: 46px;
+}
+.b-links-0{
+  padding: 15px;
+}
+.b-links-1{
+  
 }
