@@ -1,13 +1,20 @@
 .main {
   background-color: #303436;
   width: 1164px;
+  margin: 0 auto;
 }
 .mainimage {
   display: block;
   margin: 0 auto;
 }
 .toplinks{
-    padding: 0 0 0 15px;
+    padding: 0 4px 0 32px;
+}
+.toplinks-1{
+  padding-right: 15px;
+}
+.toplinks-2{
+  padding-left: 15px;
 }
 .itemstop {
   font-size: 13px;
