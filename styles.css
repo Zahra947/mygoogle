@@ -12,12 +12,12 @@
 .toplinks-1{
   padding: 0 15px 0 15PX;
 }
-.toplinks-2{
+/*.toplinks-2{
   padding: 0;
-}
+}*/
 .signin{
   background-color: #8ab4f8;
-  box-sizing: border-box;
+  /*box-sizing: border-box;*/
   color: #303436;
   font-size: 14px;
   font-family: 'Times New Roman';
@@ -114,7 +114,7 @@
   font-family: Times New Roman;
   font-size: 14px;
   background-color: #282c2d;
-  height: 46px;
+  /*height: 46px;*/
 }
 .b-links-0 {
   padding: 15px;
