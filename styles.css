@@ -16,6 +16,18 @@
 .toplinks-2{
   padding: 0;
 }
+.signin{
+  background-color: #8ab4f8;
+  box-sizing: border-box;
+  color: #303436;
+  font-size: 14px;
+  font-family: 'Times New Roman';
+  border-color: transparent;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  margin: 0px 8px;
+  padding: 9px 23px;
+}
 .itemstop {
   font-size: 13px;
   color: #dcdad7;
