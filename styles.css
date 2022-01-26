@@ -1,6 +1,5 @@
 .main {
   background-color: #303436;
-  width: 1164px;
   margin: 0 auto;
 }
 .mainimage {
@@ -63,13 +62,13 @@
   padding: 0 13px 0 0;
 }
 .textbar {
-  width: 487px;
+  /*width: 487px;*/
   height: 34px;
 }
 .buttons {
   margin: 7px 270px 0px 270px;
   padding: 18px 0 12px 0;
-  width: 584px;
+  /*width: 584px;*/
   height: 70px;
 }
 .buttons-0 {
@@ -80,7 +79,7 @@
   border: 1px;
   border-radius: 4px;
   padding: 0 16px 0 16px;
-  width: 117px;
+  /*width: 117px;*/
   height: 36px;
   background-color: #3b4043;
   font-size: 14px;
@@ -92,7 +91,7 @@
   border: 1px;
   border-radius: 4px;
   padding: 0 16px 0 16px;
-  width: 137px;
+  /*width: 137px;*/
   height: 36px;
   background-color: #3b4043;
   font-size: 14px;
