@@ -27,7 +27,7 @@
 .itemstop {
   font-size: 13px;
   color: #dcdad7;
-  font-family: Times New Roman;
+  font-family: 'Times New Roman';
 }
 .form {
   padding: 5px 8px 0 14px;
@@ -53,6 +53,7 @@
 }
 .search-icon {
   color: #dcdad7;
+  padding-right: 13px;
 }
 .item-1 {
   height: 27px;
@@ -80,7 +81,7 @@
   height: 36px;
   background-color: #3b4043;
   font-size: 14px;
-  font-family: Times New Roman;
+  font-family: 'Times New Roman';
   color: #cecbc7;
 }
 .buttons-2 {
@@ -92,7 +93,7 @@
   height: 36px;
   background-color: #3b4043;
   font-size: 14px;
-  font-family: Times New Roman;
+  font-family: 'Times New Roman';
   color: #dcdad7;
 }
 .lang-0 {
@@ -101,21 +102,21 @@
 }
 .lang-1 {
   font-size: 13px;
-  font-family: Times New Roman;
+  font-family: 'Times New Roman';
   color: #b1aca6;
   margin: 0 0 24px 0;
 }
 .bottombar-0 {
   padding: 0 20px 0 20px;
   color: #979289;
-  font-family: Times New Roman;
+  font-family: 'Times New Roman';
   font-size: 14px;
   background-color: #282c2d;
   /*height: 46px;*/
 }
 .b-links-0 {
   padding: 15px;
-  font-family: Times New Roman;
+  font-family: 'Times New Roman';
   font-size: 14px;
   color: #979289;
 }
