@@ -11,6 +11,7 @@
 }
 .toplinks-1{
   padding: 0 15px 0 15PX;
+  color: #979289;
 }
 .signin{
   background-color: #8ab4f8;
@@ -55,10 +56,10 @@
   color: #dcdad7;
   padding-right: 13px;
 }
-.item-1 {
+/*.item-1 {
   height: 27px;
   padding: 0 13px 0 0;
-}
+}*/
 .textbar {
   /*width: 487px;*/
   height: 34px;
