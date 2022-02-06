@@ -1,3 +1,16 @@
+a{
+  text-decoration: none;
+}
+a:hover{
+  cursor: pointer;
+  text-decoration: none;
+  color: #979289;;
+}
+button:hover{
+  cursor: pointer;
+  text-decoration: none;
+  color: #979289;;
+}
 .main {
   background-color: #303436;
   margin: 0 auto;
@@ -15,7 +28,7 @@
   font-size: 13px;
 }
 .signin{
-  background-color: #8ab4f8;
+  /*background-color: #8ab4f8;*/
   /*box-sizing: border-box;*/
   color: #303436;
   font-size: 14px;
@@ -26,6 +39,7 @@
   /*margin: 0px 8px;*/
   /*padding: 9px 23px;*/
 }
+
 .itemstop {
   font-size: 13px;
   color: #dcdad7;
@@ -121,4 +135,7 @@
   font-family: 'Times New Roman';
   font-size: 14px;
   color: #979289;
+}
+.farsi{
+  color:#6F9DEB;
 }
