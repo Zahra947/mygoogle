@@ -3,7 +3,7 @@ a{
 }
 a:hover{
   cursor: pointer;
-  text-decoration: none;
+  text-decoration: underline;
   color: #979289;;
 }
 button:hover{
