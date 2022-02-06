@@ -139,3 +139,9 @@ button:hover{
 .farsi{
   color:#6F9DEB;
 }
+.microphone{
+  background-color: #3b4043;
+  border-radius: 0%;
+  padding: 0;
+  border: none;
+}
